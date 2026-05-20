@@ -1,21 +1,25 @@
 # Hola 👋, Soy Sebastián Tapia
 
 ### Estudiante de Ingeniería Civil Informática en la Universidad de Santiago de Chile
-
-#### 🎓 5to año 
+#### 🎓 5to año | Me gusta el desarrollo, la tecnologia y astronomia
 
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastián%20Tapia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-tapia-g/)
-[![GitHub](https://img.shields.io/badge/GitHub-sebastapia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SebaTapiaG)
+[![GitHub](https://img.shields.io/badge/GitHub-SebaTapiaG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SebaTapiaG)
 
+---
+
+## 🙋‍♂️ Sobre mí
+
+
+* 📫 Cómo contactarme: sebastian.tapia.ga@usach.cl
 ---
 
 ## 🚀 Tecnologías y Herramientas
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" alt="Azure"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes"/>
@@ -58,7 +62,8 @@
 
 ---
 
-## 📊 GitHub Stats
+
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SebaTapiaG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
@@ -67,7 +72,7 @@
 
 ---
 
-## 🔥 Racha de contribuciones
+## 🔥 Racha de Contribuciones
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SebaTapiaG&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -76,4 +81,5 @@
 ---
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SebaTapiaG&color=blueviolet&style=flat-square&label=VISTAS+AL+PERFIL" alt="Profile views" />
 </p>
