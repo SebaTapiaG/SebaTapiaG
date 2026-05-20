@@ -70,7 +70,7 @@
 ## 🔥 Racha de contribuciones
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=SebaTapiaG&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
