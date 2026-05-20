@@ -2,12 +2,12 @@
 
 ### Estudiante de Ingeniería Civil Informática en la Universidad de Santiago de Chile
 
-#### 🎓 5to año · Apasionado por el desarrollo de software, DevOps y arquitecturas cloud.
+#### 🎓 5to año 
 
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastián%20Tapia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-tapia-g/)
-[![GitHub](https://img.shields.io/badge/GitHub-sebastapia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-sebastapia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SebaTapiaG)
 
 ---
 
