@@ -1,7 +1,7 @@
-# Hola 👋, Soy Sebastián Tapia
+# Hola , Soy Sebastián Tapia
 
 ### Estudiante de Ingeniería Civil Informática en la Universidad de Santiago de Chile
-#### 🎓 5to año | Me gusta el desarrollo, la tecnologia y astronomia
+####  5to año | Me gusta el desarrollo, la tecnologia y astronomia
 
 ---
 
@@ -10,15 +10,15 @@
 
 ---
 
-## 🙋‍♂️ Sobre mí
+##  Sobre mí
 
 
-* 📫 Cómo contactarme: sebastian.tapia.ga@usach.cl
+*  Cómo contactarme: sebastian.tapia.ga@usach.cl
 ---
 
-## 🚀 Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" alt="Azure"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
 </p>
 
-### 💻 Lenguajes
+###  Lenguajes
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
 </p>
 
-### 🧩 Frameworks & Librerías
+###  Frameworks & Librerías
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js"/>
@@ -49,13 +49,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
 </p>
 
-### 🗄️ Bases de Datos
+###  Bases de Datos
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
 </p>
 
-### 🎮 Otros
+###  Otros
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" height="50" alt="Unity"/>
 </p>
@@ -63,16 +63,16 @@
 ---
 
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebaTapiaG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebaTapiaG&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SebaTapiaG&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebaTapiaG&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
-## 🔥 Racha de Contribuciones
+##  Racha de Contribuciones
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SebaTapiaG&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
